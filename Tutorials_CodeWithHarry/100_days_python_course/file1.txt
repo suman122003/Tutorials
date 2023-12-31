@@ -1,0 +1,3 @@
+Hello! This file is made for the tutorial 49 of the 100 days pyhton course by CodeWithHarry.
+We have created this in the folder for the mentioned course.
+We are going to open this file in python.
