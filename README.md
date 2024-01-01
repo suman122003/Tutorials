@@ -1,38 +1,38 @@
 # Tutorials
 Here are the tutorials. Visit the folders and explore the codes.
 
-# Documentations
-## Documentation - NumPy
+## Documentations
+### Documentation - NumPy
 
-## Documentation - SciPy
+### Documentation - SciPy
 
-## Documentation - SymPy
+### Documentation - SymPy
 
-## Documentation - Pandas
+### Documentation - Pandas
 
-## Documentation - Matplotlib
+### Documentation - Matplotlib
 
-## Documentation - Seaborn
+### Documentation - Seaborn
 
-## Documentation - Plotly
+### Documentation - Plotly
 
-# Books
-## Python - Abhijit Kar Gupta
+## Books
+### Python - Abhijit Kar Gupta
 
-## Data Analysis - Wes McKinney
+### Data Analysis - Wes McKinney
 
 
-# Tutorials - YouTube and others
-## CodeWithHarry
+## Tutorials - YouTube and others
+### CodeWithHarry
 
-## WsCube Tech
+### WsCube Tech
 
-## freeCodeCamp
+### freeCodeCamp
 
-## Mr. P Solver
+### Mr. P Solver
 
-## Physics Explained
+### Physics Explained
 
-## Other Tutorials
+### Other Tutorials
 
 
