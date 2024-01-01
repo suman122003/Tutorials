@@ -1,5 +1,5 @@
 # Tutorials
-Here are the tutorials
+Here are the tutorials. Visit the folders and explore the codes.
 
 ## Documentation - NumPy
 
@@ -25,5 +25,7 @@ Here are the tutorials
 ## Mr. P Solver
 
 ## Physics Explained
+
+## Other Tutorials
 
 
