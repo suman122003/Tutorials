@@ -1,0 +1,5 @@
+Link to the webpage containing all the websites in this folder:
+https://qutip.org/qutip-tutorials/#example-notebooks
+
+Links to scientific python lectures (github):
+https://github.com/jrjohansson/scientific-python-lectures
