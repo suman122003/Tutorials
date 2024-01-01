@@ -1,6 +1,7 @@
 # Tutorials
 Here are the tutorials. Visit the folders and explore the codes.
 
+# Documentations
 ## Documentation - NumPy
 
 ## Documentation - SciPy
@@ -15,7 +16,13 @@ Here are the tutorials. Visit the folders and explore the codes.
 
 ## Documentation - Plotly
 
+# Books
+## Python - Abhijit Kar Gupta
 
+## Data Analysis - Wes McKinney
+
+
+# Tutorials - YouTube and others
 ## CodeWithHarry
 
 ## WsCube Tech
