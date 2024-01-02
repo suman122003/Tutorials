@@ -1,5 +1,5 @@
 # Tutorials
-Here are the tutorials. Visit the folders and explore the codes. Only the name of the folders and the name of files inside are given in this page. To see a more detailed documentation with one page dedicated for each folder, visit all the pages of the wiki section - https://github.com/suman122003/Tutorials/wiki.
+Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the wiki section - https://github.com/suman122003/Tutorials/wiki.
 
 ## Documentations
 ### Documentation - NumPy
