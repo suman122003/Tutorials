@@ -45,8 +45,13 @@ Visit these folders and explore the codes. Only the folders' names and the files
   - *2nd year calculus.*
 * *Curve fitting.*
 * *Interpolation.*
-### Physics Explained
+* **Physcis problems**
+  - *Electric field computation.*
+  - *Eigenstates of 1D potential.*
+  - *Finite potential well.*
+### Dot Physics
 * *Infinite 1D potential well - Shooting method.*
+* *Solving 2D quantum mechanics problems.*
 
 ### Others Tutorials
 
