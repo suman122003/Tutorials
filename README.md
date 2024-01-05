@@ -2,13 +2,6 @@
 Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the wiki section - https://github.com/suman122003/Tutorials/wiki.
 
 ## Books
-### Python - Abhijit Kar Gupta
-* *Chapter 8 - Numerical Methods.*
-* *Chapter 9 - NumPy.*
-* *Chapter 10 - SciPy.*
-* *Chapter 11 - Matplotlib.*
-### Santra - 3rd semester Python codes
-
 ### Data Analysis - Wes McKinney
 * *Chapter 4 - NumPy Basics.*
 
