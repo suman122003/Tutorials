@@ -7,6 +7,8 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * *Chapter 9 - NumPy.*
 * *Chapter 10 - SciPy.*
 * *Chapter 11 - Matplotlib.*
+### Santra - 3rd semester Python codes
+
 ### Data Analysis - Wes McKinney
 * *Chapter 4 - NumPy Basics.*
 
