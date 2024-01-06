@@ -1,5 +1,5 @@
 # Tutorials
-Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the wiki section - https://github.com/suman122003/Tutorials/wiki.
+Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the **Wiki section** - https://github.com/suman122003/Tutorials/wiki.
 
 ## Books
 ### Data Analysis - Wes McKinney
