@@ -1,12 +1,10 @@
 # Tutorials
-Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the **Wiki section** - https://github.com/suman122003/Tutorials/wiki.
+Tutorials from various books and YouTube videos are given here. Visit the folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the **Wiki section** - https://github.com/suman122003/Tutorials/wiki.
 
-## Books
-### Data Analysis - Wes McKinney
+## Book - Data Analysis - Wes McKinney
 * *Chapter 4 - NumPy Basics.*
 
-## Tutorials - YouTube and others
-### CodeWithHarry
+## CodeWithHarry
 * **100 days Python course.**
 * **Data Analysis.**
   - *NumPy Tutorials.*
@@ -15,7 +13,8 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * **Machine Learning.**
 * *Tkinter course.*
 * *VS code tutorials.*
-### WsCube Tech
+
+## WsCube Tech
 * **Basic Python.**
 * **Data Analysis.**
   - *NumPy Tutorials.*
@@ -23,11 +22,13 @@ Visit these folders and explore the codes. Only the folders' names and the files
   - *Matplotlib Tutorials.*
   - *Seaborn Tutorials.*
 * **Machine Learning.**
-### freeCodeCamp
+
+## freeCodeCamp
 * **Basic Python.**
 * **Data Analysis.**
 * **Machine Learning.**
-### Mr. P Solver
+
+## Mr. P Solver
 * **Physics and Maths Basics.**
   - *NumPy Tutorials.*
   - *Matplotlib Tutorials.*
@@ -44,10 +45,10 @@ Visit these folders and explore the codes. Only the folders' names and the files
   - *Electric field computation.*
   - *Eigenstates of 1D potential.*
   - *Finite potential well.*
-### Dot Physics
+## Dot Physics
 * *Infinite 1D potential well - Shooting method.*
 * *Solving 2D quantum mechanics problems.*
 
-### Others Tutorials
+## Others Tutorials
 
 
