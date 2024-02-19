@@ -1,6 +1,20 @@
 # Tutorials
 Tutorials from various books and YouTube videos are given here. Visit the folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the **Wiki section** - https://github.com/suman122003/Tutorials/wiki.
 
+## Python - AKG
+* *Numerical methods*
+* *NumPy*
+* *SciPy*
+* *Matplotlib*
+## Python - 1st Semester
+
+## Python - 3rd Semester
+*Differential Equations*
+*Special Functions*
+## Python - 4th and 5th Semester 
+* *Fourier series and Fourier transform*
+* *Eigenvalue Problems*
+* *Complex Analysis*
 ## Book - Data Analysis - Wes McKinney
 * *Chapter 4 - NumPy Basics*
 
