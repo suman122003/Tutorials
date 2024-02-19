@@ -2,21 +2,21 @@
 Tutorials from various books and YouTube videos are given here. Visit the folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the **Wiki section** - https://github.com/suman122003/Tutorials/wiki.
 
 ## Book - Python - AKG
-* *Numerical methods*
-* *NumPy*
-* *SciPy*
-* *Matplotlib*
-## Book - Python - 1st Semester
+* *8. Numerical methods*
+* *9. NumPy*
+* *10. SciPy*
+* *11. Matplotlib*
+## Book - Python - Semester 1
 
-## Book - Python - 3rd Semester
-*Differential Equations*
-*Special Functions*
-## Book - Python - 4th and 5th Semester 
-* *Fourier series and Fourier transform*
-* *Eigenvalue Problems*
-* *Complex Analysis*
+## Book - Python - Semester 3
+*11. Differential Equations*
+*12. Special Functions*
+## Book - Python - Semester 4, 5
+* *2. Fourier series and Fourier transform*
+* *3. Eigenvalue Problems*
+* *5. Complex Analysis*
 ## Book - Data Analysis
-* *Chapter 4 - NumPy Basics*
+* *4. NumPy Basics*
 
 ## YT - CodeWithHarry
 * **100 days Python course**
