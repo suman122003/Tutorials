@@ -15,7 +15,7 @@ Tutorials from various books and YouTube videos are given here. Visit the folder
 * *Fourier series and Fourier transform*
 * *Eigenvalue Problems*
 * *Complex Analysis*
-## Book - Data Analysis - Wes McKinney
+## Book - Data Analysis
 * *Chapter 4 - NumPy Basics*
 
 ## CodeWithHarry
