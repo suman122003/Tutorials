@@ -1,10 +1,10 @@
 # 50 Linux Commands by CodeWithHarry
 
-*YouTube link: https://youtu.be/l32UR9DcjLg*
+**YouTube link:** https://youtu.be/l32UR9DcjLg
 
-*CodeWithHarry link: https://www.codewithharry.com/blogpost/50-linux-commands*
+**CodeWithHarry link:** https://www.codewithharry.com/blogpost/50-linux-commands
 
-**Date: 11/06/2025**
+> **Date: 11/06/2025**
 
 - `ls`: list the files and directories
 
@@ -108,6 +108,4 @@
 - `uniq text3.txt`: Remove duplicate lines from a file or input
 
 - display the first/last few lines of a file or input: `head README.md`, `tail README.md`. `tail -15f README.md`, CTRL+C to exit.
-
-
 
