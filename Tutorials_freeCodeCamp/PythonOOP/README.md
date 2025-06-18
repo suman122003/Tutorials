@@ -16,7 +16,7 @@ Instance (`self.something`) attribute: `self.name`, `self.price` etc.
 
 Class (`Item.something`) attribute: Used just after class line outside `def __init__` loop.
 
-More about `__repr__`: 
+More about `__repr__`: https://www.youtube.com/watch?v=FIaPZXaePhw
 
 ## Class vs Static Methods (File: [`sec2.py`](sec2.py))
 
